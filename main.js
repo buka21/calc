@@ -12,3 +12,4 @@ console.log(b + false);
 console.log(null + a);
 console.log(a + true + ' b');
 console.log(a + undefined);
+console.log(a - a);
