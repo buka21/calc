@@ -1,0 +1,14 @@
+let a = 6;
+let b = 9;
+a++;
+console.log(a + b);
+console.log(a - b);
+console.log(b / a);
+console.log(a ** 2 * b);
+console.log(b % a);
+console.log(`${a} + ${b}`);
+console.log('a' + b);
+console.log(b + false);
+console.log(null + a);
+console.log(a + true + ' b');
+console.log(a + undefined);
